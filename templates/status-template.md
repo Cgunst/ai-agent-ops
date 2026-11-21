@@ -13,12 +13,6 @@ Started: <date time TZ> · Last update: <date time TZ>
 - [ ] Phase 3: <name> — not started
   - **resume here**: first thing to run is `<exact command>`
 
-## Resume notes
-
-If the session restarts: this file is the truth. Resume from the first phase that is
-not `done`. Re-verify preconditions of the resume phase (host reachable, snapshot
-absent/present) before acting.
-
 ## Needs Cody
 
 | # | Blocker / decision needed | Exact command or choice |
